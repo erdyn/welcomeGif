@@ -49,7 +49,7 @@ def main():
     screen.setup(width=800, height=600)
 
     draw_starry_background()
-    write_caption_text()  # Text on top
+    write_caption_text()
 
     screen.mainloop()
 
